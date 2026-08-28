@@ -1200,17 +1200,68 @@ https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="CMT.us@East" tvg-name="CMT" tvg-chno="940" tvg-logo="https://i.imgur.com/S7DOpdY.png" group-title="Music",CMT
 https://gpuserver3.tier1streams.com/CMT/index.m3u8
 
-#EXTINF:-1 channel-id="TSN1-alt.ca@SD" tvg-id="TSN1-alt.ca@SD" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png" group-title="Sports" , TSN 1 HD (Alt)
-http://smart-hdip.com:6204/said/123/10636
+#EXTINF:-1 tvg-id="SkySport1.nz@SD" tvg-logo="" group-title="Sports",Sky Sport 1 (NZ)
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
 
-#EXTINF:-1 channel-id="TSN2-alt.ca@SD" tvg-id="TSN2-alt.ca@SD" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_2_aug2014.png" group-title="Sports" , TSN 2 HD (Alt)
-http://smart-hdip.com:6204/said/123/10635
+#EXTINF:-1 tvg-id="SkySport2.nz@SD" tvg-logo="" group-title="Sports",Sky Sport 2 (NZ)
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
 
-#EXTINF:-1 channel-id="TSN3-alt.ca@SD" tvg-id="TSN3-alt.ca@SD" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png" group-title="Sports" , TSN 3 HD (Alt)
-http://smart-hdip.com:6204/said/123/10634
+#EXTINF:-1 tvg-id="SkySport3.nz@SD" tvg-logo="" group-title="Sports",Sky Sport 3 (NZ)
+https://hls.sheepland.xyz/play/0/15?proxy=0
 
-#EXTINF:-1 channel-id="TSN4-alt.ca@SD" tvg-id="TSN4-alt.ca@SD" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_4_aug2014.png" group-title="Sports" , TSN 4 HD (Alt)
-http://smart-hdip.com:6204/said/123/10633
+#EXTINF:-1 tvg-id="SkySport4.nz@SD" tvg-logo="" group-title="Sports",Sky Sport 4 (NZ)
+https://hls.sheepland.xyz/play/0/36?proxy=0
 
-#EXTINF:-1 channel-id="TSN5-alt.ca@SD" tvg-id="TSN5-alt.ca@SD" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png" group-title="Sports" , TSN 5 HD (Alt)
-http://smart-hdip.com:6204/said/123/10632
+#EXTINF:-1 tvg-id="SkySport5.nz@SD" tvg-logo="" group-title="Sports",Sky Sport 5 (NZ)
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
+
+#EXTINF:-1 tvg-id="SkySport6.nz@SD" tvg-logo="" group-title="Sports",Sky Sport 6 (NZ)
+https://hls.sheepland.xyz/play/0/70?proxy=0
+
+#EXTINF:-1 tvg-id="SkySport7.nz@SD" tvg-logo="" group-title="Sports",Sky Sport 7 (NZ)
+https://hls.sheepland.xyz/play/0/66?proxy=0
+
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS Sports Network USA
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png" group-title="Sports",FanDuel Sports Network
+https://fl3.moveonjoy.com/PAC_12/index.m3u8
+
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkDetroit.us@SD" tvg-logo="" group-title="Sports",FanDuel Sports Network Detroit
+https://fl7.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports1.us@SD" tvg-logo="" group-title="Sports",Fox Sports 1
+https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLcentreice1.ca@SD" tvg-logo="" group-title="Sports",NHL Centre Ice 1
+http://fl1.moveonjoy.com/NHL_1/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLcentreice2.ca@SD" tvg-logo="" group-title="Sports",NHL Centre Ice 2
+http://fl1.moveonjoy.com/NHL_2/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLcentreice4.ca@SD" tvg-logo="" group-title="Sports",NHL Centre Ice 4
+http://fl1.moveonjoy.com/NHL_4/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLcentreice5.ca@SD" tvg-logo="" group-title="Sports",NHL Centre Ice 5
+http://fl1.moveonjoy.com/NHL_5/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLcentreice6.ca@SD" tvg-logo="" group-title="Sports",NHL Centre Ice 6
+http://fl1.moveonjoy.com/NHL_6/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLcentreice7.ca@SD" tvg-logo="" group-title="Sports",NHL Centre Ice 7
+http://fl1.moveonjoy.com/NHL_7/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLcentreice8.ca@SD" tvg-logo="" group-title="Sports",NHL Centre Ice 8
+http://fl1.moveonjoy.com/NHL_8/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLcentreice9.ca@SD" tvg-logo="" group-title="Sports",NHL Centre Ice 9
+http://fl1.moveonjoy.com/NHL_9/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLcentreice10.ca@SD" tvg-logo="" group-title="Sports",NHL Centre Ice 10
+http://fl1.moveonjoy.com/NHL_10/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLcentreice11.ca@SD" tvg-logo="" group-title="Sports",NHL Centre Ice 11
+http://fl1.moveonjoy.com/NHL_11/index.m3u8
