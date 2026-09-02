@@ -216,34 +216,76 @@ https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8
 https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-name="TSN1" tvg-chno="101" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1
-http://40.160.24.55/TSN_1/index.m3u8
+http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2428.ts
 
 #EXTINF:-1 tvg-id="TSN2.ca@SD" tvg-name="TSN2" tvg-chno="102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png" group-title="Sports",TSN2
-http://40.160.24.55/TSN_2/index.m3u8
+http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2429.ts
 
 #EXTINF:-1 tvg-id="TSN3.ca@SD" tvg-name="TSN3" tvg-chno="103" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports",TSN3
-http://40.160.24.55/TSN_3/index.m3u8
+http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2430.ts
 
 #EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-name="TSN4" tvg-chno="104" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
-http://40.160.24.55/TSN_4/index.m3u8
+http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2431.ts
 
 #EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-name="TSN5" tvg-chno="105" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
-http://40.160.24.55/TSN_5/index.m3u8
-
-#EXTINF:-1 tvg-id="MLBNetwork.us@SD" tvg-name="MLB Network" tvg-chno="106" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="Sports",MLB Network
-https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
+http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2432.ts
 
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-name="NHL Network" tvg-chno="107" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports",NHL Network
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-name="TSN The Ocho" tvg-chno="108" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN The Ocho
-https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-ID="nhlnetwork.us" tvg-name="NHL NETWORK" tvg-logo="http://primestreamstv.com/logos/NHL%20Network.png" group-title="SPORTS NETWORKS",NHL NETWORK
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102027
 
-#EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-name="ESPN8 The Ocho" tvg-chno="109" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Sports",ESPN8 The Ocho
-https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-ID="mlbnetwork.us" tvg-name="MLB NETWORK" tvg-logo="http://primestreamstv.com/logos/MLB.png" group-title="SPORTS NETWORKS",MLB NETWORK
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102026
 
-#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-name="NBC Sports NOW" tvg-chno="110" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports",NBC Sports NOW
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTSNET 360" tvg-logo="http://primestreamstv.com/logos/Sports%20Net%20360.png" group-title="SPORTS NETWORKS",SPORTSNET 360
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102098
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTSNET ONE" tvg-logo="http://primestreamstv.com/logos/Sports%20Net%20One.png" group-title="SPORTS NETWORKS",SPORTSNET ONE
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102099
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTSNET ONTARIO" tvg-logo="http://primestreamstv.com/logos/Sports%20Net%20Ontario.png" group-title="SPORTS NETWORKS",SPORTSNET ONTARIO
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102097
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTSNET PACIFIC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/Rogers_sportsnet_pacific.png/revision/latest?cb=20120212023023" group-title="SPORTS NETWORKS",SPORTSNET PACIFIC
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102100
+
+#EXTINF:-1 tvg-ID="sportsnetwest.ca" tvg-name="SPORTSNET WEST" tvg-logo="http://primestreamstv.com/logos/Sportsnet%20West.png" group-title="SPORTS NETWORKS",SPORTSNET WEST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107612
+
+#EXTINF:-1 tvg-ID="sportsnetworld.ca" tvg-name="SPORTSNET WORLD" tvg-logo="http://primestreamstv.com/logos/Sportsnet%20World.png" group-title="SPORTS NETWORKS",SPORTSNET WORLD
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102096
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN (Australia)" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS NETWORKS",ESPN (Australia)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107809
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 (Australia)" tvg-logo="http://primestreamstv.com/logos/ESPN2.png" group-title="SPORTS NETWORKS",ESPN 2 (Australia)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107810
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CRICKET (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Cricket.2.jpg" group-title="SPORTS NETWORKS",FOX CRICKET (Australia)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107811
+
+#EXTINF:-1, FOX SPORTS 1 AU HD
+http://162.248.6.122:8080
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 502 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 502 (Australia)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107812
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 503 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 503 (Australia)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107813
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 504 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 504 (Australia)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107814
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 505 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 505 (Australia)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107815
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 506 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 506 (Australia)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107816
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 507 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 507 (Australia)
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107817
 
 #EXTINF:-1 tvg-id="mjh-redbull-tv" tvg-name="Redbull TV" tvg-chno="111" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="International",Redbull TV
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
